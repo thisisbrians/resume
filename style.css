@@ -1,0 +1,39 @@
+body {
+  color: #333333;
+  font-family: Georgia, serif;
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.5em;
+}
+
+h1, h2 {
+  border-bottom: 1px #ccc solid;
+  padding-bottom: .2em;
+  margin-bottom: .5em;
+}
+
+ul#contact {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul.section {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+ul.section li {
+}
+
+ul.section ul {
+  margin-bottom: 1em;
+}
+
+span.job-title {
+  font-style: italic;
+}
+
+span.date {
+  float: right;
+}
